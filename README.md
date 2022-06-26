@@ -1,5 +1,6 @@
 # Hello!
 ## My name is Tirthankar Mazumder.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=wermos" alt="wermos" /> </p>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wermos&layout=compact&theme=tokyonight)](https://github.com/wermos/github-readme-stats)
 <!--Make yourself at [home](https://prateekgargx.github.io/ "Under construction")-->
