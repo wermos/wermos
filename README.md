@@ -1,10 +1,12 @@
 # Hello!
+
 ## My name is Tirthankar Mazumder.
+
+[Here](https://wermos.github.io/blog) is my blog website.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wermos" alt="wermos" /> </p>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wermos&layout=compact&theme=tokyonight)](https://github.com/wermos/github-readme-stats)
-<!--Make yourself at [home](https://wermos.github.io/blog "Under construction")-->
- 
 
 <div class="row">
   <img alt="Tirthankar's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=wermos&count_private=true&show_icons=true&theme=tokyonight" height="180">
